@@ -1,0 +1,10 @@
+root *** root *** marsit *** saif *** 13333333 *** super *** super *** none *** none
+s *** s *** s *** s *** 11111111 *** Admin *** 0000 *** 22222222 *** s@gmail.com
+aziz *** azerty *** s *** s *** 11111111 *** Admin *** 0000 *** 22222222 *** s@gmail.com
+benali *** azerty *** benali *** dania *** 14460889 *** Nutritionniste *** 7ZG5GIVC *** 29809909 *** dania.benali@gmail.com
+meddeb *** azerty *** meddeb *** ahmed *** 14567899 *** Agent_du_foyer *** BLJ29OH7 *** 51890909 *** medeb@gmail.com
+rhouma *** azerty *** rhouma *** khayri *** 15689009 *** Etudiant *** L4YRZJ58 *** 56789009 *** khayri@gmail.com
+younes *** azerty *** younes *** maryem *** 14456778 *** Agent_du_restaurent *** GGTF7P6H *** 29008778 *** younes@gmail.com
+marsit *** azerty *** marsit *** saif *** 34433333 *** Etudiant *** W2IIKEGJ *** 29010909 *** marsit.saif@gmail.com
+tech *** azerty *** tech *** capteur *** 14450663 *** Technicien *** ONUWJAO0 *** 29010909 *** technicien.capteur@gmail.com
+saif *** azerty *** saif *** marsit *** 14450663 *** Admin *** 0000 *** 34444444 *** hzami363@gmail.com

@@ -1,0 +1,5 @@
+DUO *** 0005MMYL *** azerty *** jhgbnkj;b *** 1/1/2000 *** 12345678 *** Homme *** 3eme_ETAGE
+INDIV *** 7ZG5GIVC *** aaz *** azze *** 1/1/2000 *** 14504057 *** Homme *** RDC
+INDIV *** BLJ29OH7 *** khalil *** dridi *** 1/1/2000 *** 15678909 *** Homme *** RDC
+INDIV *** 7PPS6FGW *** khalil *** dridi *** 1/1/2000 *** 14450663 *** Homme *** RDC
+INDIV *** IBB06DHS *** test *** test *** 1/1/2000 *** 11111111 *** Femme *** 2eme_ETAGE
